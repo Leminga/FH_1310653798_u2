@@ -5,7 +5,7 @@ public class FH_1310653798_U2
 {
     public static void main(String[] args)
     {
-       
-    }
-    
+       Mensch ich = new Mensch("Markus",28,"m");
+        System.out.println(ich.printAll());
+    }    
 }
