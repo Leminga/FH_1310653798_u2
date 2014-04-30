@@ -17,7 +17,7 @@ public class Student extends Humanoide
     @Override
     public void Status()
     {
-        System.out.println("Ich bin ein Student mit dem Namen "+ vorname+" "+nachname+" mit der Matrikelnummer: "+matrikelnummer+ " und ich Studiere "+studiengang);
+        System.out.println("Ich bin ein Student mit dem Namen "+ vorname+" "+nachname+" mit der Matrikelnummer: "+matrikelnummer+ " und ich studiere im Studiengang"+studiengang);
     }
 
     public int getMatrikelnummer()

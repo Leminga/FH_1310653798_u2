@@ -15,6 +15,6 @@ public class Humanoide
         }
         public void Status()
         {
-            System.out.println("Ich bin ein Mensch mit dem Namen: "+vorname+" "+nachname+" und ich bin "+alter+"alt");
+            System.out.println("Ich bin ein Humanoide mit dem Namen: "+vorname+" "+nachname+" und ich bin "+alter+" alt");
         }
 }
